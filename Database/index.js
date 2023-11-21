@@ -12,5 +12,4 @@ export default {
     users,
     enrollments,
     grades
-
 };
